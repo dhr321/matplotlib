@@ -1,0 +1,9 @@
+Observable trends based on the data:
+
+1. From the scatter plot, I see that average fares are higher (more expensive) in rural areas.  This behavior is probably due to the fact that rural rides are longer distance than suburban or urban rides.
+
+2. Also from the scatter plot I see that most rides are urban rides and they are relatively less expensive.
+
+3. Pyber rides are much more popular in urban environments.  Appropriately, 4 out of 5 Pyber drivers operate in urban cities.
+
+4. Both types of plots (scatter and pie charts) use the same data but represent the findings in dramatically different ways.  I think the scatter plot is more versatile because in one plot it can convey the meaning of three pie charts.
